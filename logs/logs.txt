@@ -1,0 +1,3 @@
+{"level":"info","ts":1746049964.010853,"caller":"coffeeshop/main.go:107","msg":"Starting server at port %s..."}
+{"level":"info","ts":1746050089.515759,"caller":"coffeeshop/main.go:107","msg":"Starting server at port %s..."}
+{"level":"info","ts":1746050145.394548,"caller":"coffeeshop/main.go:107","msg":"Starting server at port %s..."}

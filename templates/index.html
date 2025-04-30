@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Coffeeshop</title>
+</head>
+<body>
+Welcome to the Shop!
+</body>
+
+<body>
+Menu
+</body>
+
+<p>
+    {{ range .coffees }}
+        Name: {{ .Name }}<br>
+        Price: {{ .Price }}<br>
+    {{ end }}
+</p>
+</html>
